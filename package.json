@@ -10,7 +10,8 @@
     "typescript": "^3.9.3"
   },
   "devDependencies": {
-    "@types/node": "^14.0.5"
+    "@types/node": "^14.0.5",
+    "ts-node": "^8.10.2"
   },
   "repository": {
     "url": "http://github.com/KATT/abbas.live"
