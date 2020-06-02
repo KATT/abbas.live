@@ -6,6 +6,12 @@
     "value": "illfactor"
   },
   {
+    "url": "https://www.youtube.com/user/CashMoneyAp",
+    "name": "",
+    "type": "user",
+    "value": "CashMoneyAp"
+  },
+  {
     "url": "https://www.youtube.com/channel/UC4Wf0An63EgbRiZ-Eo-fEWg",
     "name": "Kbeazy",
     "type": "channel",
@@ -33,18 +39,18 @@
     "url": "https://www.youtube.com/channel/UCo0LAsm6HuHIO8P1YmKNcKg",
     "name": "Complex",
     "type": "",
-    "value": ""
+    "value": "UCo0LAsm6HuHIO8P1YmKNcKg"
   },
   {
     "url": "https://www.youtube.com/channel/UCOloc4MDn4dQtP_U6asWk2w",
     "name": "",
     "type": "",
-    "value": ""
+    "value": "UCOloc4MDn4dQtP_U6asWk2w"
   },
   {
     "url": "https://www.youtube.com/channel/UC2Qw1dzXDBAZPwS7zm37g8g",
     "name": "",
-    "type": "",
+    "type": "channel",
     "value": "UC2Qw1dzXDBAZPwS7zm37g8g"
   },
   {
@@ -57,7 +63,7 @@
     "url": "https://www.youtube.com/channel/UC86rJVj3W8CKt1PLHIx_TdQ",
     "name": "Internet Money",
     "type": "channel",
-    "value": ""
+    "value": "UC86rJVj3W8CKt1PLHIx_TdQ"
   },
   {
     "url": "https://www.youtube.com/user/brtvofficial",
@@ -69,6 +75,12 @@
     "url": "https://www.youtube.com/channel/UCQdCIrTpkhEH5Z8KPsn7NvQ",
     "name": "Mixmag",
     "type": "channel",
+    "value": "UCQdCIrTpkhEH5Z8KPsn7NvQ"
+  },
+  {
+    "url": "https://www.youtube.com/user/universalmusicgroup",
+    "name": "Universal music",
+    "type": "user",
     "value": ""
   }
 ]
